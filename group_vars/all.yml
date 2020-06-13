@@ -1,6 +1,6 @@
 ---
 
-student_list_source_repo: "github.com:PSU01/student-list_jenkins-cd"
+student_list_source_repo: "git@github.com:PSU01/student-list"
 
 student_list_source_branch: "master"
 
