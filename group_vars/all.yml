@@ -1,9 +1,10 @@
 ---
 
-student_list_source_repo: "github.com/PSU01/student-list_jenkins-cd.git"
+student_list_source_repo: "github.com:PSU01/student-list_jenkins-cd"
+
 student_list_source_branch: "master"
 
-student_list_docker_image_tag: "gitlab-cd"
+student_list_docker_image_tag: "Jenkins-cd"
 
 home: "/home/centos"
 
